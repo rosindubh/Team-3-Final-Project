@@ -1,0 +1,27 @@
+{
+    "name": "Team-3-Final-Project",
+    "version": "1.0.0",
+    "description": "Final Project Team 3",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon src/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rosindubh/Team-3-Final-Project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rosindubh/Team-3-Final-Project/issues"
+    },
+    "homepage": "https://github.com/rosindubh/Team-3-Final-Project#readme",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "mongoose": "^6.0.9",
+        "nodemon": "^2.0.13"
+    }
+}
